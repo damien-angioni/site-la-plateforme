@@ -10,17 +10,14 @@ body {
 #top {
     justify-items: center;
     float:left;
-    padding:0;
     display: flex;
     }
 #menu ul {
-    padding:0;
     list-style-type:none;
     }
 #menu li {
     float:right;
     margin:1px;
-    padding:0;
     background-color:#336699;
     }
 #menu li a {
@@ -31,7 +28,6 @@ body {
     width:220px;
     color:white;
     text-decoration:none;
-    padding:5px;
     }
 #menu li a:hover {
     color:#DC143C;
@@ -41,22 +37,28 @@ body {
     float: center;
     display: block;
     float:left;
-    padding:5px;
     background-color:white;
     }
 #total {
-    justify-content: left;
+    justify-content: space-between  ;
     float: center;
     display: block;
     float:left;
-    padding:5px;
     background-color:white;
+    }
+#cat1 {
+    
+    }
+#cat2 {
+
+    }
+#cat3 {
+
     }
 #end {
     justify-content: left;
     float: center;
     display: block;
     float:left;
-    padding:5px;
     background-color:white;
     }
