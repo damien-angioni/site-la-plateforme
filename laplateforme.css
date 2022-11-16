@@ -7,6 +7,12 @@ body {
     font-size: 24px;  
     color: #336699;  
     }
+h1 {
+    font-size: 36;
+    }
+h2 {
+    font-size: 32;
+    }
 #top {
     justify-items: center;
     float:left;
@@ -41,20 +47,22 @@ body {
     }
 #total {
     justify-content: space-between  ;
-    float: center;
+    float: left;
     display: block;
     float:left;
     background-color:white;
     }
-#cat1 {
-    
+#bluebag {
+    width:100%;
+    background: #336699;
+    color: white;
     }
-#cat2 {
+#cat1 #cat2 #cat3{
+    width:33.33%;
+    float:left;
+    text-align:center;
+    }
 
-    }
-#cat3 {
-
-    }
 #end {
     justify-content: left;
     float: center;
