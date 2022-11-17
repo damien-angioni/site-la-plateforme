@@ -49,11 +49,11 @@ body h2 {
     justify-content: space-between  ;
     float: left;
     display: block;
-    float:left;
     background-color:white;
     }
 #bluebag {
     background: #336699;
+    width: 100%;
     color: white;
     float: left;
     display: block;
