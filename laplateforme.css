@@ -69,20 +69,39 @@ body h2 {
     width:33.33%;
     float:left;
     text-align:center;
-    background: #336699;
     height: 100%;
     }
 #cat2 {
     width:33.33%;
     float:left;
-    text-align:center;
-    background: #336699;
+    justify-content:center;
     }
 #cat3 {
     width:33.33%;
     float:left;
     text-align:center;
+    }
+#sponsor {
     background: #336699;
+    color: white;
+    float: left;
+    display: block;
+    width: 100%;
+    }
+#spons1 {
+    float: left;
+    text-align:center;
+    width: 100%;
+    }
+#spons2 {
+    float: left;
+    text-align:center;
+    width: 100%;
+    }
+#spons3 {
+    float: left;
+    text-align:center;
+    width: 100%;
     }
 #lowsections {
     background: white;
@@ -101,20 +120,16 @@ body h2 {
     width:33.33%;
     float:left;
     text-align:center;
-    background: white;
-    height: 100%;
     }
 #cat5 {
     width:33.33%;
     float:left;
     text-align:center;
-    background: white;
     }
 #cat6 {
     width:33.33%;
     float:left;
     text-align:center;
-    background: white;
     }
 #videoblock {
     background: #336699;
@@ -123,17 +138,38 @@ body h2 {
     display: block;
     justify-items: auto;
     }
+#videoblockreverted {
+    background: white;
+    color: #336699;
+    float: left;
+    display: block;
+    width: 100%;
+    justify-items: auto;
+    }
 #vid1 {
     width:49.74%;
     float:left;
     text-align:center;
-    background: #336699;
     }
 #vid2 {
     width:49.74%;
     float:left;
     text-align:center;
-    background: #336699;
+    }
+#vid3 {
+    width:33.1%;
+    float:left;
+    text-align:center;
+    }
+#vid4 {
+    width:33.1%;
+    float:left;
+    text-align:center;
+    }
+#vid5 {
+    width:33.1%;
+    float:left;
+    text-align:center;
     }
 #end {
     justify-content: left;
