@@ -69,12 +69,11 @@ body h2 {
     width:33.33%;
     float:left;
     text-align:center;
-    height: 100%;
     }
 #cat2 {
     width:33.33%;
     float:left;
-    justify-content:center;
+    text-align:center;
     }
 #cat3 {
     width:33.33%;
@@ -102,6 +101,13 @@ body h2 {
     float: left;
     text-align:center;
     width: 100%;
+    }
+#brochure a {
+    text-decoration:none; 
+    color: #336699;
+    }
+#brochure a:hover {
+    color:#DC143C;
     }
 #lowsections {
     background: white;
