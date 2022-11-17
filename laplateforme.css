@@ -58,6 +58,13 @@ body h2 {
     float: left;
     display: block;
     }
+#bluebag a {
+    text-decoration:none; 
+    color: white;
+    }
+#bluebag a:hover {
+    color:#DC143C;
+    }
 #cat1 {
     width:33.33%;
     float:left;
@@ -82,6 +89,13 @@ body h2 {
     color: #336699;
     float: left;
     display: block;
+    }
+#lowsections a {
+    text-decoration:none; 
+    color: #336699;
+    }
+#lowsections a:hover {
+    color:#DC143C;
     }
 #cat4 {
     width:33.33%;
@@ -110,13 +124,13 @@ body h2 {
     justify-items: auto;
     }
 #vid1 {
-    width:49.5%;
+    width:49.74%;
     float:left;
     text-align:center;
     background: #336699;
     }
 #vid2 {
-    width:49.5%;
+    width:49.74%;
     float:left;
     text-align:center;
     background: #336699;
