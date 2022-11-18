@@ -186,3 +186,9 @@ body h2 {
     color:white;
     width:100%;
     }
+#art {
+    width:29%;
+    float:left;
+    text-align:center;
+    margin:auto;
+    }
